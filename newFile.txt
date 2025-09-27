@@ -1,2 +1,3 @@
 this is my new file
 i have modified it now(many modification)
+i have modified it now(only a few)
